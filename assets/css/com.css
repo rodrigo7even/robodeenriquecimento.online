@@ -211,6 +211,7 @@ tr {
 @media (max-width: 768px) {
   .video-player {
     margin-top: 0 !important;
+    margin-bottom: 50px !important;
   }
 }
 
@@ -221,7 +222,7 @@ tr {
       border: 0; 
       font: inherit; 
       vertical-align: baseline;
-      color: #2e82bc; 
+      color: #C20009; 
       outline: 0; 
       line-height: 1; 
       text-align: center; 
