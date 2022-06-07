@@ -8,6 +8,7 @@
     height: 100%;
     top: 0;
     margin: auto;
+    margin-bottom: 100px !important;
   }
   #frame {
     width: 100%;
@@ -211,7 +212,7 @@ tr {
 @media (max-width: 768px) {
   .video-player {
     margin-top: 0 !important;
-    margin-bottom: 50px !important;
+    margin-bottom: 100px !important;
   }
 }
 
